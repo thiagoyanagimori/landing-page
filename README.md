@@ -1,2 +1,3 @@
 # landing-page
-Landing page de teste criada apenas como molde para estudos em HTML e CSS.
+Este projeto é apenas um **molde de landing page** desenvolvido para praticar **HTML e CSS**.  
+Não possui finalidade comercial, sendo apenas um exercício de aprendizado e estruturação de páginas.  
